@@ -125,7 +125,7 @@ button:nth-child(2):hover{
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("profile.jpeg");
+    background: url("profile.jpeg") center/cover no-repeat;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
