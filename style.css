@@ -125,7 +125,7 @@ button:nth-child(2):hover{
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("image/WhatsApp\ Image\ 2026-06-26\ at\ 6.09.07\ PM\ me.jpeg");
+    background-image: url("profile.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
